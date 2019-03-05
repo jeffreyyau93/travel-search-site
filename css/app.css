@@ -5,3 +5,11 @@ html {
 .header-text {
 	color: salmon;
 }
+
+.content {
+	max-width: 100%;
+}
+
+.main_img {
+	max-width: 100%;
+}
